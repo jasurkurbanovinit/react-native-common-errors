@@ -1,8 +1,10 @@
 # react-native-common-errors
 react-native-common-errors
 
-# Enabling Multidex
+# Enabling Multidex In React Native 
 ### Learn how to enable multidex on your Android application.
+
+In this tutorial, how to enabling multidex in React Native project will be presented. 
 
 As more native dependencies are added to your project, it may bump you over the 64k 
 method limit on the Android build system. Once this limit has been reached, you will start to see the following 
